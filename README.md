@@ -23,3 +23,15 @@ Cross validation
 Evaluation metric: accuracy, F1, precision, recall
 
 Grid search, Tuning Hyper parameters 
+
+# Usage
+1.Run the main jupyter notebook to this project:/Notebook/Ecommerce Product Category prediction.ipynb"
+
+
+# Important note
+Before you run this jupyter notebook, please make sure to update the neccesary dataset path in the notebook as per your local system's path.
+
+
+
+
+
