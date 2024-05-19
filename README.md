@@ -24,6 +24,9 @@ Develop a multi-class text classifier that categorizes products with maximum acc
 # Install Dependencies 
   pip install -r requirements.txt
 
+  # powerpoint Presentation
+    Attach the powerpoint Presentation about the brief documentation of this project.
+
 # Usage
   1.Run the main jupyter notebook to this project:/Notebook/Ecommerce Product Category prediction.ipynb"
 
@@ -31,6 +34,7 @@ Develop a multi-class text classifier that categorizes products with maximum acc
   1.Before you run this jupyter notebook, please make sure to update the neccesary dataset path in the notebook as per your local system's path.
   
   2. Please unzip the file under in the model folder to check see the model.
+     
 
 
 
