@@ -29,7 +29,8 @@ Develop a multi-class text classifier that categorizes products with maximum acc
 
 # Important note
   1.Before you run this jupyter notebook, please make sure to update the neccesary dataset path in the notebook as per your local system's path.
-  2. Please unzip the file under in the model folder.
+  
+  2. Please unzip the file under in the model folder to check see the model.
 
 
 
